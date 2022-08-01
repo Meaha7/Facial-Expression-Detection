@@ -2,10 +2,10 @@
 
 Welcome !
 
-This is the implementation of Emotion Detection Classifier using 2 algorithms.
+This is the implementation of Emotion Detection Classifier using 2 Techniques.
 
-The algorithms are :-
-✨REFER - Real Time Ensemble of Facial Expression Detection
+The Techniques are :- <br>
+✨REFER - Real Time Ensemble of Facial Expression Detection <br>
 ✨FERNET - Facial Expression Recognition Network
 
-Thank You :)
+Thank You For Reading ! 😊
